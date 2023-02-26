@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "taskstats.h": "c",
+        "sched.h": "c",
+        "net_namespace.h": "c",
+        "bpf_helpers.h": "c",
+        "libbpf_common.h": "c"
+    }
+}
